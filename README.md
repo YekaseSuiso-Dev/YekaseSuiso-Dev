@@ -1,16 +1,22 @@
-## Hi there 👋
+## YekaseSuiso简介
+我出生在深圳， 目前15嵗。在深圳呆滿10年后曾短暫移居到重慶，目前在惠州生活（父親被別人騙買了惠州這個安卓城市的房子，很殘念）。
 
-<!--
-**YekaseSuiso-Dev/YekaseSuiso-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+喜欢研究各种奇怪的硬件，也许会很多黑苹果排错的技巧，嗯呢。
 
-Here are some ideas to get you started:
+## 你會做些什麽？
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+我曾經是一個硬件玩家，且爲此感到驕傲…
+
+爲什麽是「曾經」？因爲一些原因，我漸漸無法負擔折騰硬件的開銷，這無疑是可憐的，但熱愛不減當年…恢復機房部署的實踐正在進行中喵w
+
+我可以配置黑蘋果的引導文件，如果有需要的話可以免費來找我，我會幫助你的。特別是10代后EFI文件的配置和排錯我瞭然於心，這是時間帶來的饋贈。
+
+目前在努力學習，希望考上北京郵電大學喵w
+
+## 你的設備？
+- 💻 Z790I+I9 14900k+32G DDR58000+A100超級轉接版
+- 📱Pixel 8-已損毀
+- 📱夏普R6
+- 📱iPhone Se3 全白改裝版
+- 🖨️HP WFP M479dw 超貴大笨笨
+- ⚙️Microsoft Windows 11 Pro for Workstations
